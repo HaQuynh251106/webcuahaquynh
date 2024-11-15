@@ -73,3 +73,12 @@ footer {
     background-color: #125447;
     color: white;
 }
+.submit {
+  background-color: green;
+  color: white;
+  padding: 15px 20px;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+  border-radius: 8px;
+}
